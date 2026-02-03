@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy-krishyadav90.vercel.app" alt="trophies" />
+<img src="https://github-profile-trophy-krishyadav90.vercel.app" />
 </p>
 
 
