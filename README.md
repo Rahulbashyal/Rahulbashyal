@@ -1,41 +1,36 @@
-# <p align="center">✨ Hello, I'm Rahul Bashyal! ✨</p>
+# <p align="center">✨ Rahul Bashyal | Full-Stack Artisan & Photographer ✨</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Architect&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Engineering%20with%20an%20Artistic%20Lens&fontSize=50&animation=twinkling" />
 </p>
 
 ## 🚀 About Me
-I am a passionate **Backend-Focused Developer** currently mastering the art of PHP. I believe in writing code that is as clean as it is functional. I'm currently on a journey to build systems that scale.
+I bridge the gap between **logical backend architecture** and **minimalist frontend design**. Currently deep-diving into the Laravel ecosystem and Linux server management. When I'm not writing clean PHP, I'm capturing the world through a camera lens.
 
 ---
 
-## 🛠️ My Digital Toolbox
+## 🛠️ The Workspace
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,tailwind,js,linux,bash,py,mysql,git,vscode,figma" />
   </a>
 </p>
 
 ---
 
-## 📊 My Coding DNA
+## 📈 Engineering Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahulbashyal&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Rahul's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahulbashyal&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" alt="Rahul's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulbashyal&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbashyal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📸 Creative Connection
 <p align="left">
-<a href="https://facebook.com/YOUR_FB_USERNAME"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR_INSTA_USERNAME"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://instagram.com/YOUR_INSTA_USERNAME"><img src="https://img.shields.io/badge/Photography_Portfolio-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
----
-
-### 📂 Current Focus
-> **Project:** `100-Days-Of-PHP`
-> **Learning:** Advanced Logic Patterns, Data Structures, and Database Optimization.
+> *"I believe code should be as beautiful as a well-composed photograph."*
