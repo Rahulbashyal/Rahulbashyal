@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy-krishyadav90.vercel.app" />
+<img src="[https://github-profile-trophy-krishyadav90.vercel.app](https://github-enchanter-list.vercel.app)" />
 </p>
 
 
