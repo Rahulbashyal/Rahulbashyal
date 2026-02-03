@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahulbashyal&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+<img src="https://github-profile-trophy-krishyadav90.vercel.app" alt="trophies" />
 </p>
----
+
 
 ### 🛠️ The Arsenal
 
