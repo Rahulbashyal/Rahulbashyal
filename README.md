@@ -1,33 +1,41 @@
-# 👨‍💻 Rahul Bashyal | Full-Stack Artisan
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Building_Scaleable_Systems-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend_Architecture-blue?style=flat-square" />
+# <p align="center">✨ Hello, I'm Rahul Bashyal! ✨</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Architect&fontSize=70&animation=fadeIn" />
 </p>
 
-### 🛠️ The Tech Stack
-> "The code is the canvas, and logic is the brush."
-
-| Category | Tools |
-| :--- | :--- |
-| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+## 🚀 About Me
+I am a passionate **Backend-Focused Developer** currently mastering the art of PHP. I believe in writing code that is as clean as it is functional. I'm currently on a journey to build systems that scale.
 
 ---
 
-### 📂 Featured Architecture
-*Currently mastering the deep mechanics of PHP through a intensive **100-Day Engineering Challenge**, focusing on clean code, design patterns, and system logic.*
-
----
-
-### 📊 Engineering Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulbashyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbashyal&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 📫 Let's Connect
+## 🛠️ My Digital Toolbox
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,vscode" />
+  </a>
 </p>
+
+---
+
+## 📊 My Coding DNA
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahulbashyal&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Rahul's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulbashyal&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://facebook.com/YOUR_FB_USERNAME"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://instagram.com/YOUR_INSTA_USERNAME"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 📂 Current Focus
+> **Project:** `100-Days-Of-PHP`
+> **Learning:** Advanced Logic Patterns, Data Structures, and Database Optimization.
