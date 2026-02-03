@@ -4,19 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=BUILDING_COMPLETE_DIGITAL_EXPERIENCES;PHP_LARAVEL_BACKENDS;TAILWIND_MODERN_UIs;FULL_STACK_SYSTEM_DESIGN" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahulbashyal&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+</p>
 ---
 
 ### 🛠️ The Arsenal
 
 <div align="center">
 
-| **FRONTEND** | **BACKEND** | **DEVOPS** |
-| :--- | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,tailwind,js,python,linux,bash,git,github,docker,vscode,figma,postman,netlify&theme=dark" />
+  </a>
+</p>
 
 ---
 
@@ -29,7 +30,7 @@
 
 ### ☕ Support My Craft
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME_HERE">
+  <a href="https://www.buymeacoffee.com/rahulbashyal">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
   </a>
 </p>
@@ -48,5 +49,5 @@
 </p>
 
 <p align="center">
-  <code>STACK: FULL_STACK | ARCHITECT: RAHUL | SYSTEM: OPTIMIZED</code>
+  <code>STACK: FULL_STACK | ARCHITECT: RAHUL | STATUS: ACTIVELY_CODING</code>
 </p>
