@@ -4,7 +4,7 @@
 </p>
 
 ## 🚀 About Me
-I bridge the gap between **logical backend architecture** and **minimalist frontend design**. Currently deep-diving into the Laravel ecosystem and Linux server management. When I'm not writing clean PHP, I'm capturing the world through a camera lens.
+I bridge the gap between **logical backend architecture** and **minimalist frontend design**. Currently mastering PHP and Laravel. When I'm not writing code, I'm capturing the world through a camera lens.
 
 ---
 
@@ -19,11 +19,11 @@ I bridge the gap between **logical backend architecture** and **minimalist front
 
 ## 📈 Engineering Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahulbashyal&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" alt="Rahul's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahulbashyal&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahul's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulbashyal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbashyal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
