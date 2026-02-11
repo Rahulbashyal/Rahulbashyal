@@ -26,6 +26,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulbashyal&theme=dracula&area=true&hide_border=true&bg_color=0D1117" width="100%" />
 </p>
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rahulbashyal/Rahulbashyal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ### ☕ Support My Craft
